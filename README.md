@@ -1,6 +1,6 @@
 # Requisitos não funcionais
 
-<p> > Linguagem: JavaScript.</p>
-<p> > Framework: Node.js.</p>
-<p> > Banco de dados: Postgres.</p>
-<p> > Plataforma: Multiplataforma.</p>
+<p> > <strong>Linguagem:</strong> JavaScript.</p>
+<p> > <strong>Framework:</strong> Node.js.</p>
+<p> > <strong>Banco de dados:</strong> Postgres.</p>
+<p> > <strong>Plataforma:</strong> Multiplataforma.</p>
