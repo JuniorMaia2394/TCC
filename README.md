@@ -1,6 +1,6 @@
 # Best Speak
 
-## Requisitos Funcionais
+## Funcionalidades
 
 > Cadastrar Paciente
 
@@ -11,13 +11,3 @@
 > Agendar Consulta
 
 > Inserir Exercicios
-
-## Requisitos Não Funcionais
-
-> **Linguagem:** JavaScript.
-
-> **Framework:** Node.js.
-
-> **Banco de dados:** Postgres.
-
-> **Plataforma:** Multiplataforma.
